@@ -6,5 +6,3 @@ A simple two column layout with index of images in the left and a bigger image i
 This is a clean neat UI built with HTML + CSS without any Javascript. 
 
 See screenshot.jpg to see how it looks.
-
-Credits: Devrim Tufan 
