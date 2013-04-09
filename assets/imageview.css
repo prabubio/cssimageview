@@ -1,0 +1,39 @@
+* {
+    border:0;
+    padding:0;
+    margin:0;
+}
+
+body {
+    width:680px;
+    margin: auto;
+    background-color: #222;
+}
+
+body {
+    width:680px;
+    margin: auto;
+    background-color: #222;
+    font:13px/1.231 arial,helvetica,clean,sans-serif;
+    color:#999;
+}
+
+h1 {
+    margin:10px;
+}
+
+ul {
+    list-style-type: none;
+    padding:0 5px 0 0;
+    float:left;
+    margin-top:0px;
+}
+
+#images {
+  height: 300px;
+  overflow:hidden;  
+}
+
+footer {
+  float:right;
+}
